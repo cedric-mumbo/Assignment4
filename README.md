@@ -1,1 +1,1 @@
-![Assignment4](Assignmnet4.PNG)
+![Assignment4](Assignment4.PNG)
